@@ -1,3 +1,36 @@
+# 🎧 Headphones Landing Page
+
+Welcome to the **Headphones** landing page! This is a sleek, responsive, and modern web page built to showcase high-quality headphones. It is ideal for marketing audio products, running promotional campaigns, or collecting leads through a compelling call to action.
+
+
+
+## 🚀 Features
+
+- 🎯 **Hero Section with Call-to-Action**  
+  Eye-catching background with a strong message and central CTA button.
+
+- 🖼️ **Background Overlay**  
+  Semi-transparent dark overlay for improved text readability over image.
+
+- 📱 **Responsive Design**  
+  Mobile-friendly layout – adapts gracefully on screens smaller than 480px.
+
+- 🔗 **Navigation Bar**  
+  Simple and clean navigation links: _What we do_, _Our result_, and _Contact us_.
+
+- 💅 **Interactive Elements**
+  - CTA button changes opacity on hover/active.
+  - Navigation links highlight in red (#FF6565) on hover/active.
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **Responsive Design Techniques**
+- **Font and Button Styling**
+
+## 📁 Folder Structure
+
 <<<<<<< HEAD
 # alx_html_css
 =======
